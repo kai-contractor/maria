@@ -1,0 +1,86 @@
+{
+    "Firstname": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "firstname"
+    },
+    "Lastname": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "lastname"
+    },
+    "LoginButton": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn"
+    },
+    "Logout": {
+        "screenshot": ".images\\logout-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "logout"
+    },
+    "Password": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "password"
+    },
+    "SalesResult": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salesresult"
+    },
+    "SalesResultTable": {
+        "screenshot": ".images\\salesresulttable-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=213424&lastname=asdsa&salesresult=234234#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": "#sales-results"
+    },
+    "SalesSummary": {
+        "screenshot": ".images\\salessummary-screenshot.png",
+        "source": "https://robotsparebinindustries.com/?firstname=asd&lastname=asdasd&salesresult=123#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".sales-summary"
+    },
+    "SalesTarget": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "salestarget"
+    },
+    "Salesform": {
+        "screenshot": ".images\\salesform-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "sales-form"
+    },
+    "SubmitSalesForm": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-primary"
+    },
+    "Username": {
+        "screenshot": null,
+        "source": "https://robotsparebinindustries.com/#/",
+        "strategy": "id",
+        "type": "browser",
+        "value": "username"
+    }
+}
